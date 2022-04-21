@@ -1,2 +1,4 @@
 # DataViz
-DataViz personal projects
+Here you find some DataViz projects build with Microsoft Power BI or others tech stacks.
+
+Enjoy!
